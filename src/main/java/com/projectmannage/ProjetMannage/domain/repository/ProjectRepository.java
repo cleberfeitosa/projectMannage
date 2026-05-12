@@ -1,4 +1,4 @@
-package com.projectmannage.ProjetMannage.repository;
+package com.projectmannage.ProjetMannage.domain.repository;
 
 import com.projectmannage.ProjetMannage.domain.entity.Project;
 import org.springframework.data.jpa.repository.JpaRepository;

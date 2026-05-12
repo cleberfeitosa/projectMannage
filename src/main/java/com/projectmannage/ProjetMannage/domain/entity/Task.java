@@ -1,6 +1,6 @@
 package com.projectmannage.ProjetMannage.domain.entity;
 
-import com.projectmannage.ProjetMannage.model.TaskStatus;
+import com.projectmannage.ProjetMannage.domain.model.TaskStatus;
 
 public class Task {
 

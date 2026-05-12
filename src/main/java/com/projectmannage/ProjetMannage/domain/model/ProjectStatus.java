@@ -1,4 +1,4 @@
-package com.projectmannage.ProjetMannage.model;
+package com.projectmannage.ProjetMannage.domain.model;
 
 public enum ProjectStatus {
     PEDDING,
