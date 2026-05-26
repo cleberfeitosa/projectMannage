@@ -3,6 +3,8 @@ server:
     context-path: /
   port: 8080
 spring:
+  jackson:
+    default-property-include: non_null
   application:
     name: ProjetMannage
   datasource:
@@ -10,8 +12,6 @@ spring:
     driverClassName: org.h2.Driver
     username: sa
     password:
-
-
   h2:
     console:
       enabled: true
